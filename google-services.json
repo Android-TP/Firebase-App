@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765538381356",
+    "project_id": "tp-android-f7771",
+    "storage_bucket": "tp-android-f7771.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765538381356:android:ca7201063e208848f06b89",
+        "android_client_info": {
+          "package_name": "com.daniel.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765538381356-erc2re5n5df033kt6lvtdchbb6l2b6rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBvCXZkOz3H1bjjE6WJje-hpv4IXstTr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765538381356-erc2re5n5df033kt6lvtdchbb6l2b6rm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
